@@ -766,7 +766,7 @@ li:hover {
 }
 
 .bg-\[url\(\'\.\.\/assets\/img\/bg-image\.jpg\'\)\] {
-  background-image: url('../assets/img/bg-image.jpg');
+  background-image: url('assets/img/bg-image.jpg');
 }
 
 .bg-cover {
